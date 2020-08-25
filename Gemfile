@@ -12,7 +12,7 @@ gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.7'
 
 gem 'devise'
-
+gem 'rails_admin', '~> 2.0'
 gem 'bootsnap', '>= 1.4.2', require: false
 
 group :development, :test do
